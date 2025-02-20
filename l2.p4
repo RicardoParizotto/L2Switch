@@ -20,7 +20,9 @@
 #include "util.p4"
 
 
-/*TODO: define the necesssary metadata*/
+struct metadata_t {
+
+}
 
 // ---------------------------------------------------------------------------
 // Ingress parser
